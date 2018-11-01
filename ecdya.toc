@@ -1,0 +1,5 @@
+## Interface: 80000
+## Title: External Cooldown Yeller for Warcraft
+## Author: Liam Hockley
+## Version: 0.1
+main.lua
